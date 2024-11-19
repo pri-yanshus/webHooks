@@ -36,9 +36,6 @@ function NavBar() {
                           ? "bg-indigo-100 text-indigo-600"
                           : "text-gray-600 hover:bg-gray-100 hover:text-indigo-600"
                       }`}
-                    // aria-label={`Go to ${item.name
-                    //   .replace(/([A-Z])/g, " $1")
-                    //   .trim()}`}
                   >
                     <FontAwesomeIcon
                       icon={item.icon}
